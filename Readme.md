@@ -1,5 +1,3 @@
 # Github
 
-Arquivo modificado
-
-vc está vendo
+Arquivo mudado apos upar para o github
